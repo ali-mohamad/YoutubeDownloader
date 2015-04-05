@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>logoWait.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>youtubeIcon.ico</file>
+    </qresource>
+</RCC>
